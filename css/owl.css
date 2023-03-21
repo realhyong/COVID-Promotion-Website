@@ -1,0 +1,10 @@
+.owl-carousel {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.owl-carousel .owl-item {
+    position: relative;
+    float: left;
+}
