@@ -1,6 +1,6 @@
 # COVID-19 promotion website
 
-[简体中文](README_CN.md)
+[简体中文](README_CN.md)<br/>
 English(Current)
 
 ## Introduction
