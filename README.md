@@ -37,10 +37,19 @@ Simply open the ==Click This One.html== file to view all the information on the 
 
 ---
 ## Studying
-1. 了解网页的布局构成和网页基础编写
-2. 熟悉并运用==CSS盒子模型==
-3. 使用==jquery==进行特定的事件处理和ajax交互
-4. 利用==bootstrap===调用现成布局，更快更好的规范网页
-5. 学习如何调用==开源插件==
-6. 学习如何利用CSS编写简单的线性动画
-7. 学习如何保持网页跳转时背景音乐的无缝衔接（可能不是主流手段）
+- 了解网页的布局构成和网页基础编写
+- 熟悉并运用==CSS盒子模型==
+- 使用==jquery==进行特定的事件处理和ajax交互
+- 利用==bootstrap==调用现成布局，更快更好的规范网页
+- 学习如何调用==开源插件==
+- 学习如何利用CSS编写简单的线性动画
+- 学习如何保持网页跳转时背景音乐的无缝衔接（可能不是主流手段）
+<br/>
+
+- Understanding the composition of the layout of a web page and the basics of compiling web pages
+- Familiarity with and use of the ==CSS box model==
+- use ==jquery== for specific event handling and ajax interaction
+- use ==bootstrap== to call out-of-the-box layouts for faster and better specification of web pages
+- learn how to call ==open source plugins==
+- learn how to compile simple linear animations using CSS
+- learn how to keep the background music seamless when jumping from page to page (may not be the mainstream means)
