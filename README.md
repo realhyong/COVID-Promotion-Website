@@ -1,12 +1,13 @@
 # COVID-19 promotion website
----
-这个资源库包含展示宣传网站所需的所有代码和文件。
-**笔记**：这个网站是我初学时创建的，所以在技术和实施方面肯定有一些不足之处。请浏览者谅解!
 
+这个资源库包含展示宣传网站所需的所有代码和文件。
+
+**笔记**：这个网站是我初学时创建的，所以在技术和实施方面肯定有一些不足之处。请浏览者谅解!
+<br/>
 This repository contains all the code and files needed to showcase the promotion website.
+
 **Note**: This website was set up when I was a beginner, so there are definitely some shortcomings in the technology and implementation. Please understand the viewers!
 
----
 ## Content
 
 - ==Click This One.html== : 框架页面，能在页面跳转时保持背景音乐不间断。
@@ -19,6 +20,7 @@ This repository contains all the code and files needed to showcase the promotion
 - ==images/*== : 图片文件夹，存放网站需要的所有图片。
 - ==song/*== : 音乐文件夹，存放一个背景音乐文件。
 <br/>
+
 - ==Click This One.html== : Frameset pages, to keep the background music going while the page is jumping.
 - ==index.html== : Home page, which contains the framework and information display of the main page.
 - ==music.html== : Music playback page, to set the background music of all kinds of information.
@@ -29,13 +31,11 @@ This repository contains all the code and files needed to showcase the promotion
 - ==images/*== : Contains all the images needed for the website.
 - ==song/*== : Contains a background music file.
 
----
 ## Usage
 只需打开 ==Click This One.html==文件，即可查看网站上的所有信息。
 
 Simply open the ==Click This One.html== file to view all the information on the website.
 
----
 ## Studying
 - 了解网页的布局构成和网页基础编写
 - 熟悉并运用==CSS盒子模型==
